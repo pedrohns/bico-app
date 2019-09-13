@@ -1,2 +1,2 @@
 # bico-app
-This is an project off one idea that i have too an app.
+Este é o projeto de um aplicativo que tive ideia de fazer.
